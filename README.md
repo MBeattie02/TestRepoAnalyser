@@ -2,6 +2,7 @@
 
 This repository Holds test code to demo the Analyser Tool functionality
 
+More Extensive evaluation can be accessed [here] (https://github.com/MBeattie02/AnalyserToolEvaluation).
 
 
 
